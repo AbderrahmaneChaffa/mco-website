@@ -32,9 +32,9 @@ Bienvenue sur le dépôt officiel du site web du Mouloudia Club d'Oran (MCO). Ce
 - **Hébergement** : VPS (DigitalOcean, AWS, OVH)
 
 ---
-
+<!-- 
 ## **Installation**
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/votre-utilisateur/mco-website.git
-   cd mco-website
+   cd mco-website -->
